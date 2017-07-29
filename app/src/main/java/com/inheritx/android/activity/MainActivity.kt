@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.Button
 import com.inheritx.android.R
 
+//Hitesh
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     lateinit var btnSend: Button
